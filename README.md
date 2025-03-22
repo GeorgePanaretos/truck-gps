@@ -1,2 +1,1 @@
-# truck-gps
-Truck GPS with Kafka
+# Truck GPS with Kafka
