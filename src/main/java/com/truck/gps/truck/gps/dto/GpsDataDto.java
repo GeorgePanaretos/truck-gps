@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class GpsDataDto {
-    private String truckId;
+    private TruckDto truckId;
     private double latitude;
     private double longitude;
 }
